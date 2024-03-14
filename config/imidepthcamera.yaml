@@ -1,0 +1,9 @@
+imidepthcamera_node:
+  ros__parameters:
+    frame_id: "camera"
+    publish_rate: 10.0
+    publish_point_could: true
+    publish_image_raw: true
+    publish_image_depth: true
+    publish_depth_camera_info: true
+    publish_color_camera_info: true
