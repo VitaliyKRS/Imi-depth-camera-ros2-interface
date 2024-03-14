@@ -2,6 +2,7 @@ Ros2 interface to work with A100S+mini depth camera (Huajie Amy’s somatosensor
 
 Preconditions:
 Install Ros2 packages: https://docs.ros.org/en/humble/Installation.html
+
 Install ImiSDK: https://drive.google.com/file/d/1bdKMtkUCiWu_xV1y85VFkQCKSyhDc8Hn/view?usp=drive_link
 
 Usage:
